@@ -1,8 +1,0 @@
-﻿=========================================
-  RETO: Operadores (área y perímetro)
-=========================================
-
-Valores iniciales -> width: 7, height: 5, area: 35, perimeter: 24
-Valores finales   -> width: 10, height: 3, area: 30, perimeter: 26
-
-Fin del Reto: Operadores.
