@@ -1,0 +1,23 @@
+﻿=========================================
+  EJERCICIO 3: Interpolación de strings
+=========================================
+
+Hola, me llamo Carlos, tengo 32 años y vivo en Madrid.
+
+--- Expresiones dentro de las llaves ---
+La suma de 5 y 7 es 12
+El doble de 5 es 10
+
+--- Aplicando formatos ---
+Precio (moneda): $ 123,45
+Fecha: 15/10/2023
+Valor con 2 decimales: 123,45
+
+--- Alineación de columnas ---
+Nombre          Edad
+--------------------
+Ana               25
+Juan Carlos       42
+Beatriz           31
+
+Fin del Ejercicio 3.
